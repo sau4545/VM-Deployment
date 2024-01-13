@@ -105,7 +105,7 @@
             }
         },
         {
-            "name": "appvm",
+            "name": "appvm24012025",
             "type": "Microsoft.Compute/virtualMachines",
             "apiVersion": "2021-03-01",
             "location": "[resourceGroup().location]",
